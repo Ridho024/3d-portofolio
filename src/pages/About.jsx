@@ -3,6 +3,7 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import 'react-vertical-timeline-component/style.min.css';
 
 import {skills, experiences } from '../constants/index.js'
+import CTA from '../components/CTA.jsx';
 // TODO: Perbaikan animasi send message to
 // TODO: Homepage pop upnya ga kecepetan
 const About = () => {
@@ -86,6 +87,9 @@ const About = () => {
           </VerticalTimeline>
         </div>
       </div>
+
+      <hr className="border-slate-200"/>
+      <CTA/>
     </section>
   )
 }
