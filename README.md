@@ -1,6 +1,7 @@
 # React + Vite
 
 ATM (Amati Tiru Modifikasi) wkwkwkwk
+
 Made with ❤️ by Ridho Ramadhan
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
